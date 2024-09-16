@@ -16,5 +16,7 @@ For running the code:
 1. Install required libraries (in case not installed):
       pip install matplotlib 
 
-2. Execute the script and we will see a real-time plot with anomalies flagged in red. 
+2. Execute the script by running the following command in the terminal and we will see a real-time plot with anomalies flagged in red.
+      python anomaly_detection.py
+
 
