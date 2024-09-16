@@ -13,10 +13,11 @@ The graph is updated dynamically using "plt.pause()" to simulate real-time strea
 
 For running the code:
 
-1. Install required libraries (in case not installed):
+1. Clone the repository.
+2. Install required libraries (in case not installed):
       pip install matplotlib 
 
-2. Execute the script by running the following command in the terminal and we will see a real-time plot with anomalies flagged in red:
+3. Execute the script by running the following command in the terminal and we will see a real-time plot with anomalies flagged in red:
       python anomaly_detection.py
 
 
