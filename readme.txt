@@ -16,4 +16,12 @@ For running the code:
 1. Install required libraries (in case not installed):
       pip install matplotlib 
 
-2. Execute the script and we will see a real-time plot with anomalies flagged in red.      
+2. Execute the script and we will see a real-time plot with anomalies flagged in red. 
+
+1. Task Summary
+The task involves building a Python script that:
+
+*Simulates a continuous data stream.
+*Detects anomalies in real time.
+*Visualizes both the data stream and anomalies.
+*Is efficient, documented, and optimized.
